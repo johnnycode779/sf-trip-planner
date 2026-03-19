@@ -1,2 +1,1 @@
-# sf-trip-planner
-Travel planning documentation for San Francisco trip
+# SF Trip Planner - Travel documentation for visiting Golden Gate Bridge
